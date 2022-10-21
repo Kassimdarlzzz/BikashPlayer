@@ -44,3 +44,7 @@
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
 ## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+
+
+
+[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kassimdarlzzz/BikashPlayer)
